@@ -1,43 +1,40 @@
-# DreamSeed - AI-Powered Environmental Innovation Platform
+# EcoForge – AI-Driven Green Innovation Hub
 
-DreamSeed is an innovative platform that leverages AI to generate, visualize, and validate environmental solutions. Built for the hackathon, it combines cutting-edge technology with environmental consciousness.
+EcoForge is an innovative platform designed to empower environmental innovation using the power of Artificial Intelligence. Developed as part of a hackathon, this platform combines advanced AI technologies with a strong focus on sustainability to generate, visualize, and validate environmental solutions in real-time.
 
 ## Features
 
-- AI-powered solution generation using Gemini API
-- Interactive visualization of environmental solutions
-- Comprehensive validation and feasibility analysis
-- Beautiful environmental-themed UI
-- Real-time solution generation and analysis
+- **AI-Powered Solution Generation**  
+  Utilize the Gemini API to create innovative environmental solutions tailored to real-world challenges.
 
-## Tech Stack
+- **Interactive Visualization**  
+  Engage with dynamic, user-friendly visual representations of proposed solutions to better understand their impact.
 
-- React + TypeScript
-- Tailwind CSS
-- Framer Motion
-- Google Gemini AI
-- React Flow
-- Zustand
+- **Feasibility and Validation Analysis**  
+  Assess the practicality and effectiveness of generated solutions through comprehensive validation metrics.
 
-## Getting Started
+- **Eco-Friendly Themed UI**  
+  Experience a clean, intuitive interface inspired by natural elements to enhance user engagement.
 
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Create a `.env` file with your Gemini API key:
-   ```
-   VITE_GEMINI_API_KEY=your_api_key_here
-   ```
-4. Start the development server: `npm run dev`
+- **Real-Time Processing**  
+  Solutions are generated and analyzed instantly, allowing for immediate feedback and iteration.
+
+## Technology Stack
+
+- React with TypeScript for building a robust frontend  
+- Tailwind CSS for modern, responsive styling  
+- Framer Motion to add smooth animations and transitions  
+- Google Gemini AI as the core generative intelligence engine  
+- React Flow for interactive flow diagrams and visualization  
+- Zustand for efficient state management
+
 
 ## Images
-![Image 1](images/1.jpg)
 ![Image 2](images/2.jpg)
 ![Image 3](images/3.jpg)
 ![Image 4](images/4.jpg)
 ![Image 5](images/5.jpg)
 ![Image 6](images/6.jpg)
-
-[Add documentation links and details]
 
 ## License
 
